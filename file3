@@ -1,0 +1,7 @@
+<!Doc>type =HTML>
+<Head>
+<P1>  This is manoj </P1>
+</Head>
+<Body>
+<input id="text" type = "text"/>
+</Body>
